@@ -19,8 +19,6 @@ jobs:
 
       - name: Run a one-line script
         run: echo Build success
-      - name: chek node version
-        run: node -v
 
   Tests:
     name: Tests
